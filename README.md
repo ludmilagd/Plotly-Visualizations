@@ -1,12 +1,18 @@
-# Plotly-Challenge
+## Plotly 
 
-Objective: Create an interactive dashboard to explore the Belly Button Biodeversity data set
+### Objective
+To create an interactive dashboard to explore the Belly Button Biodeversity data set in a web format.
 
+### Dataset
 The dataset is a collection of microbial species that are in 70% of the people. The information is store in Json format.
 
-In order to present visualization of the data the dashboard will use Plotly technology.
+### Technologies
+JavaScript-Plotly
+HTML
+Python
+Jupyter Notebook
 
-The dashboard will have the below functionality:
+### Functionality 
 
 - It will present a Bar- chart of sample values for each OTU (Operational taxonomic units). Also will show additional information while hover over the chart
 - A Bubble Chart that ill display each OTU and all their values
