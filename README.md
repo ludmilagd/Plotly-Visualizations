@@ -20,5 +20,7 @@ Jupyter Notebook
 - Will display each value pair key for the JSON object
 - All the plots will be dynamic based in samples selected
 
+![image](https://user-images.githubusercontent.com/70984918/120364932-7282e100-c2d3-11eb-892f-3a67341578b3.png)
+![image](https://user-images.githubusercontent.com/70984918/120364941-76166800-c2d3-11eb-98ca-a3cfa920deff.png)
 
   
